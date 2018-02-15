@@ -18,7 +18,7 @@ var options = {
 	method: 'POST',
 	headers: {
 	'Content-Type': 'application/json',
-	'Authorization':'Bearer gp/pT09e+rpXH3P3lk0jVN0Y1tM2haa5sCMOx4naFjfs078qbzAvLZuAZGPkewxEzRbmx/Eu0LKE9bKmChtkpA01FTbxWJdN5YxVjXNYq1KmvOyIMeUX1HdK2Wg/RxOYc+JWHag4oDHn6k1j8WewT2zbwdB04t89/1O/w1cDnyilFU='
+	'Bearer gp/pT09e+rpXH3P3lk0jVN0Y1tM2haa5sCMOx4naFjfs078qbzAvLZuAZGPkewxEzRbmx/Eu0LKE9bKmChtkpA01FTbxWJdN5YxVjXNYq1KmvOyIMeUX1HdK2Wg/RxOYc+JWHag4oDHn6k1j8WewT2zbwdB04t89/1O/w1cDnyilFU='
 	}
 }
 app.set('port', (process.env.PORT || 5000));
